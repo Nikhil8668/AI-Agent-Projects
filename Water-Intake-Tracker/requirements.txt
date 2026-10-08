@@ -1,0 +1,19 @@
+langchain
+openai
+llama-index
+
+fastapi
+uvicorn
+streamlit
+typer
+
+#Database
+sqlalchemy
+sqlite-utils
+
+#Environment variables
+python-dotenv
+
+#Logging and Debugging
+Loguru
+
